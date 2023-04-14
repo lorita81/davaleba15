@@ -1,0 +1,269 @@
+*{
+    box-sizing: border-box;
+}
+@font-face {
+    font-family:"DM Sans";
+    src: url(DMSans-Regular.ttf);
+}
+@font-face {
+    font-family: "Inter";
+    src: url(Inter-VariableFont_slnt\,wght.ttf);
+}
+body {
+    background-color: #F3F3F3;
+    width: 1440px;
+    margin: 0;
+
+
+
+}
+
+.header {
+    width: 1120px;
+    height: 35px;
+    display: flex;
+}
+
+.logo {
+    height: 23px;
+    width: 67px;
+    margin-top: 112px;
+    margin-left: 160px;
+
+}
+
+
+a {
+    text-decoration: none;
+    color: #181717;
+    padding: 31px;
+    font-family: "DM Sans";
+    font-size: 21px;
+    font-weight: 600;
+    line-height: 25px;
+    letter-spacing: -0.03em;
+
+
+}
+
+.menu {
+    margin-left: 667px;
+}
+
+section {
+    width: 1120px;
+    height: 1242px;
+    margin-top: 225px;
+    margin-inline: auto;
+
+}
+
+.text-cont {
+    width: 1120px;
+    height: 590px;
+    display: flex;
+    background-color: #F3F3F3;
+
+}
+
+.bigtext {
+    height: 199px;
+    width: 480px;
+    left: 160px;
+    top: 360px;
+    font-family: "DM Sans";
+    font-size: 60px;
+    font-weight: 600;
+    line-height: 58px;
+    letter-spacing: -0.03em;
+    text-align: left;
+
+}
+
+.text-2 {
+
+    height: 359px;
+    width: 575px;
+    left: 160px;
+    top: 591px;
+    border-radius: nullpx;
+    font-family: "DM Sans";
+    font-size: 32px;
+    font-weight: 400;
+    line-height: 37px;
+    letter-spacing: -0.03em;
+    text-align: left;
+    color: Gray;
+
+}
+
+.foto {
+    height: 590px;
+    width: 421px;
+    margin-inline: auto;
+    margin-left: 219px;
+    top: 220px;
+
+}
+
+.info-bar {
+    height: 216px;
+    width: 623px;
+    left: 160px;
+    margin-top: 136px;
+    margin-left: 160px;
+
+}
+
+.main-soft {
+    font-family: "Inter";
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 22px;
+    letter-spacing: -0.03em;
+    text-decoration: underline;
+
+
+
+}
+
+.info-bar {
+
+    display: flex;
+}
+
+.main {
+    font-family: "Inter";
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 22px;
+    letter-spacing: -0.03em;
+    margin-top: 152px;
+    text-decoration: underline;
+
+}
+
+.pix {
+    font-family: "Inter";
+    height: 54px;
+    width: 436px;
+    left: 347px;
+    top: 1086px;
+    margin-left: 63px;
+
+}
+
+.adobe {
+    font-family: "Inter";
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 22px;
+    letter-spacing: -0.03em;
+    margin-left: 64px;
+
+}
+
+.organic {
+    font-family: "Inter";
+    height: 44px;
+    width: 401px;
+    margin-top: 72px;
+    margin-left: 63px;
+
+}
+
+hr {
+    height: 2px;
+    width: 1120px;
+    left: 160px;
+    top: 1436px;
+    border-radius: 0px;
+    margin-top: 134px;
+    background-color: #181717;
+
+}
+
+.Contact {
+    height: 166px;
+    width: 1120px;
+    left: 160px;
+    top: 1436px;
+    border-radius: 0px;
+
+}
+
+.I {
+    display: flex;
+}
+
+.next {
+    height: 71px;
+    width: 347px;
+    font-family: "DM Sans";
+    font-size: 32px;
+    font-weight: 400;
+    line-height: 37px;
+
+
+}
+
+.foto2 {
+    height: 24.px;
+    width: 20px;
+    left: 419px;
+}
+
+.Contact {
+    display: flex;
+}
+
+.mail {
+    margin-inline: auto;
+}
+
+.mak {
+    font-family: "DM Sans";
+    font-size: 32px;
+    font-weight: 400;
+    line-height: 37px;
+    letter-spacing: -0.03em;
+    text-align: left;
+
+}
+
+.vie {
+
+    font-family: "Inter";
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 22px;
+    text-align: left;
+
+}
+
+footer {
+    height: 20px;
+    width: 1120px;
+    left: 160px;
+    border-radius: 0px;
+    display: flex;
+    margin-inline: auto;
+}
+
+.meh {
+    font-family: "DM Sans";
+    font-size: 21px;
+    font-weight: 500;
+    line-height: 25px;
+    letter-spacing: -0.03em;
+    text-align: left;
+    color: #2429AF;
+}
+
+.Art {
+    padding-left: 220px;
+    color: #181717;
+}
+
+
+
